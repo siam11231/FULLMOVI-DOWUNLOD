@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url('https://source.unsplash.com/1600x900/?cinema,movie') no-repeat center center/cover;
+            text-align: center;
+            color: white;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 50px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            display: block;
+            background: #ff5733;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: 0.3s;
+            margin: 10px;
+        }
+        .cta-button:hover {
+            background: #ff2a00;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Exclusive Movie Premiere</h1>
+        <p>Watch the latest blockbuster movie online now!</p>
+        <a href="https://www.effectiveratecpm.com/u0188xvk?key=20267201b7c91b776a5afb1f564fb3a8" class="cta-button">🎬 Watch Now</a>
+        <a href="https://www.effectiveratecpm.com/u0188xvk?key=20267201b7c91b776a5afb1f564fb3a" class="cta-button">📥 Download in HD</a>
+        <a href="https://www.effectiveratecpm.com/u0188xvk?key=20267201b7c91b776a5afb1f564fb3a8" class="cta-button">▶ Stream in 1080p</a>
+        <a href="https://www.effectiveratecpm.com/u0188xvk?key=20267201b7c91b776a5afb1f564fb3a8" class="cta-button">🍿 Watch Trailer</a>
+        <a href="https://www.effectiveratecpm.com/u0188xvk?key=20267201b7c91b776a5afb1f564fb3a8" class="cta-button">🔗 More Movies</a>
+    </div>
+</body>
+</html>
